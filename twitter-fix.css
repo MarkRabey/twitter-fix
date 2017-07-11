@@ -1,0 +1,9 @@
+.EdgeButton,
+.EdgeButton:visited,
+.edge-design .avatar,
+.global-nav .search-input,
+.u-borderRadiusInherit,
+.modal-content,
+.RichEditor {
+  border-radius: 2px !important;
+}
